@@ -77,3 +77,4 @@ solutions target **C++17** and use only the standard library.
 
 The solutions are provided for learning and interview preparation. Problem
 statements are summarized, not reproduced verbatim.
+# leetcode-cpp-patterns
